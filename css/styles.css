@@ -1,0 +1,27 @@
+/* styles! */
+
+body {
+    background-color: #F1F5F2;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+hr {
+    color: #355834;
+}
+
+h1 {
+    color: #14281D;
+}
+
+p {
+    font-size: small;
+}
+
+#header {
+    margin-bottom: 50px;
+}
+
+#map {
+    height: 500px;
+    width: 100%;
+}
